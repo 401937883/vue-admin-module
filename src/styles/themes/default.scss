@@ -1,0 +1,217 @@
+/* 绿荫草场主题、荣耀典藏主题、暗黑之子主题加QQ讨论群972435319、1139183756后私聊群主获取，获取后将主题放到themes文件夹根目录即可 */
+
+
+
+.vue-admin-beautiful-theme-dark {
+  color: #fff !important;
+  background-color: #2e2f34 !important
+}
+
+.vue-admin-beautiful-theme-dark :not(a):not([class*=svg]):not(.el-drawer__wrapper):not(.el-drawer__container) {
+  color: #fff !important;
+  background-color: #2e2f34 !important;
+  border-color: #999 !important;
+  box-shadow: none !important
+}
+
+.vue-admin-beautiful-theme-dark .is-active:not(li) :not(a):not([class*=svg]) {
+  color: #fff !important;
+  background-color: #000 !important;
+  border-color: #999 !important
+}
+
+.vue-admin-beautiful-theme-dark .svg-external-icon {
+  color: #fff !important
+}
+
+.vue-admin-beautiful-theme-dark .el-scrollbar__bar {
+  display: none
+}
+
+.vue-admin-beautiful-theme-dark .el-menu,
+.vue-admin-beautiful-theme-dark .el-menu .el-menu-item,
+.vue-admin-beautiful-theme-dark .el-menu .el-submenu__title,
+.vue-admin-beautiful-theme-dark .logo-container-horizontal,
+.vue-admin-beautiful-theme-dark .logo-container-vertical,
+.vue-admin-beautiful-theme-dark .side-bar-container {
+  background: #2e2f34 !important
+}
+
+.vue-admin-beautiful-theme-dark .side-bar-container .el-menu-item.is-active,
+.vue-admin-beautiful-theme-dark .side-bar-container .el-menu-item:hover {
+  background-color: #000 !important
+}
+
+.vue-admin-beautiful-theme-dark .top-bar-container,
+.vue-admin-beautiful-theme-dark .top-bar-container .vab-main {
+  background: #2e2f34 !important
+}
+
+.vue-admin-beautiful-theme-dark .top-bar-container .vab-main .el-menu--horizontal .el-menu-item.is-active,
+.vue-admin-beautiful-theme-dark .top-bar-container .vab-main .el-menu--horizontal .el-submenu.is-active {
+  background-color: #000 !important
+}
+
+.vue-admin-beautiful-theme-dark .top-bar-container .vab-main .el-menu--horizontal>.el-menu-item.is-active {
+  border-bottom: 3px solid #000 !important
+}
+
+.vue-admin-beautiful-theme-dark .tabs-bar-container {
+  background: #fff;
+  border-top: 1px solid #f6f6f6
+}
+
+.vue-admin-beautiful-theme-dark .tabs-bar-container .tabs-content .el-tabs__header .el-tabs__item.is-active {
+  background: #000 !important;
+  border: 1px solid #000 !important
+}
+
+.vue-admin-beautiful-theme-dark .theme-bar-setting {
+  background: #000 !important
+}
+
+body.vue-admin-beautiful-theme-glory .el-menu,
+body.vue-admin-beautiful-theme-glory .el-menu .el-menu-item,
+body.vue-admin-beautiful-theme-glory .el-menu .el-submenu__title,
+body.vue-admin-beautiful-theme-glory .logo-container-horizontal,
+body.vue-admin-beautiful-theme-glory .logo-container-vertical,
+body.vue-admin-beautiful-theme-glory .side-bar-container {
+  background: #2e2f34 !important
+}
+
+body.vue-admin-beautiful-theme-glory .side-bar-container .el-menu-item.is-active,
+body.vue-admin-beautiful-theme-glory .side-bar-container .el-menu-item:hover {
+  background-color: #0187fb !important
+}
+
+body.vue-admin-beautiful-theme-glory .top-bar-container,
+body.vue-admin-beautiful-theme-glory .top-bar-container .vab-main {
+  background: #2e2f34 !important
+}
+
+body.vue-admin-beautiful-theme-glory .top-bar-container .vab-main .el-menu--horizontal .el-menu-item.is-active,
+body.vue-admin-beautiful-theme-glory .top-bar-container .vab-main .el-menu--horizontal .el-submenu.is-active {
+  background-color: #0187fb !important
+}
+
+body.vue-admin-beautiful-theme-glory .top-bar-container .vab-main .el-menu--horizontal>.el-menu-item.is-active {
+  border-bottom: 3px solid #0187fb !important
+}
+
+body.vue-admin-beautiful-theme-glory .tabs-bar-container {
+  background: #fff;
+  border-top: 1px solid #f6f6f6
+}
+
+body.vue-admin-beautiful-theme-glory .tabs-bar-container .tabs-content .el-tabs__header .el-tabs__item.is-active {
+  color: #fff !important;
+  background: #0187fb !important;
+  border: 1px solid #0187fb !important
+}
+
+body.vue-admin-beautiful-theme-glory .theme-bar-setting {
+  background: #0187fb !important
+}
+
+body.vue-admin-beautiful-theme-green .el-button--primary,
+body.vue-admin-beautiful-theme-green .el-checkbox__input.is-checked .el-checkbox__inner,
+body.vue-admin-beautiful-theme-green .el-checkbox__input.is-indeterminate .el-checkbox__inner,
+body.vue-admin-beautiful-theme-green .el-pagination.is-background .el-pager li:not(.disabled).active,
+body.vue-admin-beautiful-theme-green .el-radio__input.is-checked .el-radio__inner,
+body.vue-admin-beautiful-theme-green .el-switch.is-checked .el-switch__core {
+  background: #009688 !important;
+  border-color: #009688 !important
+}
+
+body.vue-admin-beautiful-theme-green .el-button--default:not(.el-button--primary):active,
+body.vue-admin-beautiful-theme-green .el-button--default:not(.el-button--primary):focus,
+body.vue-admin-beautiful-theme-green .el-button--default:not(.el-button--primary):hover,
+body.vue-admin-beautiful-theme-green .el-button--text,
+body.vue-admin-beautiful-theme-green .el-cascader-node.in-active-path,
+body.vue-admin-beautiful-theme-green .el-cascader-node.is-active,
+body.vue-admin-beautiful-theme-green .el-cascader-node.is-selectable.in-checked-path,
+body.vue-admin-beautiful-theme-green .el-checkbox__input.is-checked+.el-checkbox__label,
+body.vue-admin-beautiful-theme-green .el-dropdown-menu__item:focus,
+body.vue-admin-beautiful-theme-green .el-dropdown-menu__item:not(.is-disabled):hover,
+body.vue-admin-beautiful-theme-green .el-loading-spinner .el-loading-text,
+body.vue-admin-beautiful-theme-green .el-loading-spinner i,
+body.vue-admin-beautiful-theme-green .el-radio-button__orig-radio:not(:checked)+.el-radio-button__inner:hover,
+body.vue-admin-beautiful-theme-green .el-radio__input.is-checked+.el-radio__label,
+body.vue-admin-beautiful-theme-green .el-tabs__item.is-active,
+body.vue-admin-beautiful-theme-green .el-tabs__item:hover,
+body.vue-admin-beautiful-theme-green .el-tag:not(.el-tag--danger):not(.el-tag--success):not(.el-tag--info):not(.el-tag--warning),
+body.vue-admin-beautiful-theme-green .el-upload--picture-card:hover,
+body.vue-admin-beautiful-theme-green .el-upload:focus {
+  color: #009688
+}
+
+body.vue-admin-beautiful-theme-green .el-button--default:not(.el-button--primary):active,
+body.vue-admin-beautiful-theme-green .el-button--default:not(.el-button--primary):focus,
+body.vue-admin-beautiful-theme-green .el-button--default:not(.el-button--primary):hover,
+body.vue-admin-beautiful-theme-green .el-checkbox__inner:hover,
+body.vue-admin-beautiful-theme-green .el-input__inner:focus,
+body.vue-admin-beautiful-theme-green .el-range-editor.is-activ,
+body.vue-admin-beautiful-theme-green .el-range-editor.is-active,
+body.vue-admin-beautiful-theme-green .el-range-editor.is-active:hover,
+body.vue-admin-beautiful-theme-green .el-select .el-input.is-focus .el-input__inner,
+body.vue-admin-beautiful-theme-green .el-textarea__inner:focus,
+body.vue-admin-beautiful-theme-green .el-upload--picture-card:hover,
+body.vue-admin-beautiful-theme-green .el-upload:focus {
+  border-color: #009688 !important
+}
+
+body.vue-admin-beautiful-theme-green .el-tabs__active-bar {
+  background: #009688 !important
+}
+
+body.vue-admin-beautiful-theme-green .el-radio-button__orig-radio:checked+.el-radio-button__inner {
+  background: #009688 !important;
+  border-color: #009688 !important;
+  box-shadow: -1px 0 0 0 #009688 !important
+}
+
+body.vue-admin-beautiful-theme-green .el-menu,
+body.vue-admin-beautiful-theme-green .el-menu .el-menu-item,
+body.vue-admin-beautiful-theme-green .el-menu .el-submenu__title,
+body.vue-admin-beautiful-theme-green .Fold,
+body.vue-admin-beautiful-theme-green .logo-container-horizontal,
+body.vue-admin-beautiful-theme-green .logo-container-vertical,
+body.vue-admin-beautiful-theme-green .side-bar-container {
+  background: #16181d !important
+}
+
+body.vue-admin-beautiful-theme-green .Fold .el-menu-item.is-active,
+body.vue-admin-beautiful-theme-green .Fold .el-menu-item:hover,
+body.vue-admin-beautiful-theme-green .side-bar-container .el-menu-item.is-active,
+body.vue-admin-beautiful-theme-green .side-bar-container .el-menu-item:hover {
+  background-color: #009688 !important
+}
+
+body.vue-admin-beautiful-theme-green .top-bar-container,
+body.vue-admin-beautiful-theme-green .top-bar-container .vab-main {
+  background: #16181d !important
+}
+
+body.vue-admin-beautiful-theme-green .top-bar-container .vab-main .el-menu--horizontal .el-menu-item.is-active,
+body.vue-admin-beautiful-theme-green .top-bar-container .vab-main .el-menu--horizontal .el-submenu.is-active {
+  background-color: #009688 !important
+}
+
+body.vue-admin-beautiful-theme-green .top-bar-container .vab-main .el-menu--horizontal>.el-menu-item.is-active {
+  border-bottom: 3px solid #009688 !important
+}
+
+body.vue-admin-beautiful-theme-green .tabs-bar-container {
+  background: #fff;
+  border-top: 1px solid #f6f6f6
+}
+
+body.vue-admin-beautiful-theme-green .tabs-bar-container .tabs-content .el-tabs__header .el-tabs__item.is-active {
+  color: #009688 !important;
+  background: #fff !important;
+  border: 1px solid #009688 !important
+}
+
+body.vue-admin-beautiful-theme-green .theme-bar-setting {
+  background: #009688 !important
+}
