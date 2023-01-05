@@ -81,62 +81,6 @@ export const asyncRoutes = [
       },
     ],
   },
-  {
-    path: '/hzyc',
-    component: Layout,
-    redirect: 'noRedirect',
-    name: 'hzyc',
-    alwaysShow: true,
-    meta: { title: '火灾预测', icon: 'map-marked-alt' },
-    children: [
-      {
-        path: 'map',
-        component: () => import('@/views/hzYc/map/index'),
-        name: 'Map',
-        meta: {
-          title: '地图',
-          permissions: ['admin'],
-        },
-      },
-      {
-        path: 'table',
-        component: () => import('@/views/hzYc/table/index'),
-        name: 'Table',
-        meta: {
-          title: '表格',
-          permissions: ['admin'],
-        },
-      },
-    ],
-  },
-  {
-    path: '/yjzh',
-    component: Layout,
-    redirect: 'noRedirect',
-    name: 'yjzh',
-    alwaysShow: true,
-    meta: { title: '应急指挥', icon: 'globe-asia' },
-    children: [
-      {
-        path: 'map',
-        component: () => import('@/views/yjzh/map/index'),
-        name: 'Map',
-        meta: {
-          title: '地图',
-          permissions: ['admin'],
-        },
-      },
-      {
-        path: 'table',
-        component: () => import('@/views/yjzh/table/index'),
-        name: 'Table',
-        meta: {
-          title: '表格',
-          permissions: ['admin'],
-        },
-      },
-    ],
-  },
 
   // {
   //   path: '/vab',
